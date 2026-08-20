@@ -28,11 +28,11 @@ Skills:
 For more information you can checkout my portfolio
 
 Stay connected with us through our vibrant social media community. Follow us for updates, brewing tips, and special promotions on:
-Portfolio: https://chandanchaudhary-portfolio.netlify.app/
-LinkedIn: https://www.linkedin.com/in/chandan--chaudhary/
+Portfolio: https://www.chandanchaudhary.in
+ClientPortal: https://clientportal.chandanchaudhary.in
+LinkedIn: https://www.linkedin.com/in/chandan--chaudhary
 Instagram: https://www.instagram.com/_.chandan_chaudhary
 GitHub: https://github.com/iamchandanchaudhary
-LinkedIn: https://linkedin.com/company/aromabeanscoffee
 YouTube: https://www.youtube.com/@c2explains
 2nd YouTube: https://www.youtube.com/@CreativeCMS
-My Website: https://chandanchaudhary1.blogspot.com/`
+My Website: https://c2codebase.chandanchaudhary.in`

@@ -8,15 +8,11 @@ A modern, intelligent chatbot platform powered by Google's Gemini 2.0 Flash AI. 
 
 - **🧠 AI-Powered Conversations** — Powered by Google Gemini 2.0 Flash for intelligent, context-aware responses
 - **🖼️ Image Analysis** — Upload and analyze images directly in the chat
-- **😊 Emoji Picker** — Built-in emoji picker using Emoji Mart for expressive messaging
-- **📱 Fully Responsive** — Seamless experience across desktop, tablet, and mobile devices
-- **🎨 Modern UI/UX** — Beautiful gradient design with smooth animations and glassmorphism effects
 - **💬 Real-time Chat** — Instant messaging with typing indicators
-- **📜 Chat History** — Maintains conversation context for coherent discussions
 
 ## 🚀 Live Demo
 
-**[View Live Demo →](https://ai-chatbot-c2.netlify.app/)**
+**[View Live Demo →](https://ai-chatbot-c2.netlify.app)**
 
 ## 🛠️ Tech Stack
 
@@ -70,14 +66,13 @@ The chatbot uses Google's Gemini API. To use your own API key:
 ```
 ai-chatbot/
 ├── index.html              # Main HTML file
-├── input.css               # Tailwind input file
+├── input.css               # Tailwind entry (+ the few unclassable rules)
 ├── output.css              # Compiled Tailwind CSS
-├── tailwind.config.js      # Tailwind configuration
+├── tailwind.config.js      # Tailwind config: theme tokens, keyframes, animations
 ├── package.json            # Project dependencies
 ├── readme.md               # Documentation
 └── src/
     ├── script.js           # Main JavaScript logic
-    ├── style.css           # Custom CSS & animations
     ├── chandanInfo.js      # Personal info module (optional)
     └── assets/             # Images & SVG icons
         ├── botavatar.svg
@@ -122,7 +117,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Chandan Chaudhary**
 
-- Portfolio: [chandanchaudhary-portfolio.netlify.app](https://chandanchaudhary-portfolio.netlify.app/)
+- Portfolio: [www.chandanchaudhary.in](https://www.chandanchaudhary.in)
 - GitHub: [@iamchandanchaudhary](https://github.com/iamchandanchaudhary)
 - LinkedIn: [Chandan Chaudhary](https://www.linkedin.com/in/chandan--chaudhary/)
 - YouTube: [@c2explains](https://www.youtube.com/@c2explains)
